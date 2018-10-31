@@ -1,0 +1,2 @@
+# AkkaStudy
+Scala支持的著名的并发编程框架Akka的学习记录
