@@ -1,0 +1,6 @@
+rootProject.name = 'AkkaStudy'
+include 'akka.practise1'
+findProject(':akka.practise1')?.name = 'akka.practise1'
+include 'akka.practise2'
+findProject(':akka.practise2')?.name = 'akka.practise2'
+
